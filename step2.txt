@@ -1,0 +1,35 @@
+0. gh_pages 써서 deploy 해보세요
+
+ 
+
+1. Components 폴더를 만들고 Calculator, Button, Display 컴포넌트를 만드세요
+
+   Calculator는 Button, Display를 포함하고 있는 부모 컴포넌트이고
+
+   Display는 현재 값을 보여주는 컴포넌트
+
+   Button은 말 그대로 버튼이고 눌렀을 때의 동작을 부모인 Calculator가 정의할 수 있어야 합니다.
+
+ 
+
+2. App.css는 지우고 App 컴포넌트에서 Calculator 컴포넌트만 보여주도록 변경하세요
+
+ 
+
+3. Calculator는 두 개의 Button(+, -)과 한 개의 Display를 가집니다.
+
+    초기값은 0이고 +, - 버튼을 누르면 값이 변경돼야 합니다.
+
+ 
+
+힌트:
+
+1. React 컴포넌트 정의방법을 확인
+
+2. state, props 차이와 사용법 확인
+
+
+
+
+deploy 확인
+https://mysticprg.github.io/htw-study-prj/
